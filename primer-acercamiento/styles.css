@@ -1,0 +1,20 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+to-do-form,
+to-do-list {
+  display: flex;
+}
+
+to-do-form > input {
+  margin-right: 10px;
+}
+
+to-do-list {
+  margin-top: 10px;
+}
+
+to-do-list > ul {
+  margin: 0;
+}
